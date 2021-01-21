@@ -35,3 +35,19 @@ section{
     color: white;
     font-size: 20px;
 }
+.another-half{
+    width: 40%;
+    float: right;;
+    margin-right: 5%;
+    padding-right: 20px;
+}
+.another-half img{
+    width: 100%;
+
+}
+.middle{
+    background-image: url("dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
