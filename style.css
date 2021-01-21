@@ -10,6 +10,7 @@ body{
 .half{
     width: 40%;
     float: left;
+    margin: 5%;
 }
 .half img{
     width: 100%;
