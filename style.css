@@ -16,7 +16,7 @@ body{
     width: 100%;
 }
 .top{
-    background-image: url("images/top-banner.png");
+    background-image: url("top-banner.png");
     background-repeat: no-repeat;
 }
 section{
@@ -24,7 +24,8 @@ section{
 }
 .anchor-button{
     text-decoration: none;
-    background-color: orange;
+    background-image: linear-gradient(45deg, lightsalmon ,tomato );
     padding: 5px 20px;
     border-radius: 15px;
+    color: white;
 }
