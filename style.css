@@ -1,8 +1,11 @@
 body{
     margin: 0px;
     font-family: 'Poppins', sans-serif;
-    font-size: 35px;
-
+    font-size: 30px;
+}
+p{
+    font-size: 15px;
+    text-align: justify;
 }
 .name{
     color: orange;
@@ -10,10 +13,12 @@ body{
 .half{
     width: 40%;
     float: left;
-    margin:5%;
+    margin-left: 5%;
+    padding-left: 20px;
 }
 .half img{
     width: 100%;
+    padding-top: 20px;
 }
 .top{
     background-image: url("top-banner.png");
@@ -25,7 +30,8 @@ section{
 .anchor-button{
     text-decoration: none;
     background-image: linear-gradient(45deg, lightsalmon ,tomato );
-    padding: 5px 20px;
-    border-radius: 15px;
+    padding: 6px 17px;
+    border-radius: 10px;
     color: white;
+    font-size: 20px;
 }
