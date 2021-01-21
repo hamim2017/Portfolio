@@ -1,7 +1,7 @@
 body{
-    background-color: rgba(226, 213, 213, 0.664);
+    margin: 0px;
     font-family: 'Poppins', sans-serif;
-    font-size: 30px;
+    font-size: 35px;
 
 }
 .name{
@@ -10,8 +10,15 @@ body{
 .half{
     width: 40%;
     float: left;
-    margin: 5%;
+    margin:5%;
 }
 .half img{
     width: 100%;
+}
+.top{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
 }
