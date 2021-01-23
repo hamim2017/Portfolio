@@ -57,15 +57,25 @@ section{
     
     border-left: solid 8px orange;
     box-shadow: 10px 10px 40px gray;
-    border-radius: 10px;
-    padding: 10px;
+    border-top-right-radius: 15px;
+    height: 350px;
+    padding-right: 15px;
+
 
 }
 .last h6{
     color: orange;
+    margin-bottom: -4px;
 }
 .bottom{
     background-image: url(exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+#unique{
+    border-image: linear-gradient( 180deg,purple,pink) ;
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
 }
